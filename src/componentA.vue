@@ -1,9 +1,5 @@
 <template>
   <div class="container">
-    this is vue 3
-    dâda
+    <h1>Cái này đang làm dang dở tại compA</h1>
   </div>
-  <h1>nay học git</h1>
-  <h1>nay học git</h1>
-  <h1>nay học git</h1>
 </template>
