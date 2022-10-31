@@ -1,5 +1,5 @@
 <template>
     <div class="comp">
-        ndhakbsfaksbfkjasnbc
+        cái này làm ở component B
     </div>
 </template>
