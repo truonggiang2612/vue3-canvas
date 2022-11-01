@@ -3,8 +3,11 @@ import App from './App.vue'
 
 <<<<<<< Updated upstream
 createApp(App).mount('#app')
+<<<<<<< Updated upstream
 =======
 createApp(App).mount('#app')
+=======
+>>>>>>> Stashed changes
 
 // Demo dự án đang làm tại cty
 // Vấn đề gặp phải:
@@ -15,4 +18,7 @@ createApp(App).mount('#app')
 //  2.  Đang làm dang dở, mà sếp bảo qua làm giao diện phần khác??
 //  3. Cách để trình bày bố cục html/css cho đẹp (vận dụng cả js)
 // 4. hỏi chút về tailwindcss - responsive
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
